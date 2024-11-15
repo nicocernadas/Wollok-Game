@@ -14,7 +14,7 @@
 ![Gameplay](img/image2.png)  
 ![Game Paused](img/image3.png)
 The image down below, is a link to a _Canva Presentation_
-[![alt text](image.png)](https://www.canva.com/design/DAGWNLOPX3I/zWEea-UkRYUy380MG8mCpA/edit?utm_content=DAGWNLOPX3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Link to Canva](img/image4.JPG)](https://www.canva.com/design/DAGWNLOPX3I/zWEea-UkRYUy380MG8mCpA/edit?utm_content=DAGWNLOPX3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Game Rules / Instructions
 This project is a pirate-themed game inspired by *Bomb It*, because pirates are just awesome.  
